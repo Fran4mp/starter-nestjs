@@ -1,0 +1,16 @@
+.navBar{
+    background-color: #8888ff;
+    height: 5vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+}
+.active-link{
+    text-decoration: underline;
+    
+}

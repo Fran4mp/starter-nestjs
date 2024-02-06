@@ -1,0 +1,35 @@
+.item-model{
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 5px;
+    border: none;
+    outline: 1px solid #8888ff;
+    box-shadow: 0 0 10px #8888ff;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.item-model:hover {
+    background-color: #c8c8c8;
+}
+img {
+    width: 1.5rem;
+}
+button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+∫
+.hecho {
+    color: gray;
+    padding: 1em;
+}
+.no-hecho {
+    color: green;
+    padding: 1em;
+}
+.item-text {
+    max-width: 80%;
+}
